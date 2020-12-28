@@ -1,0 +1,14 @@
+.header {
+  color: white;
+  text-align: left;
+  font-size: 18px;
+}
+
+.sider {
+  background-color: white;
+  padding: 10px;
+}
+
+.content {
+  background-color: white;
+}

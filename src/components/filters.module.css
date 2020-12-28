@@ -1,0 +1,13 @@
+.button {
+    margin: 10px 0;
+}
+
+.warning {
+    font-size: 10px;
+    margin: 5px 0;
+}
+
+.sort {
+    display: flex;
+    justify-content: space-between;
+}
